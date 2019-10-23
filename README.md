@@ -1,8 +1,8 @@
-##Создание кластера Kubernetes 
+## Создание кластера Kubernetes 
 
-###Подготовка
+### Подготовка
 
-Останавливаем файрвол
+Останавливаем firewall
 ```
 systemctl stop firewalld
 systemctl disable firewalld
